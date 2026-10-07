@@ -8,6 +8,7 @@ int main(void)
     printf("fady");
     printf("fady2");
     
+    printf("new message");
 
     return;
 }
