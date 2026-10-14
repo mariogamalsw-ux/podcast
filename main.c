@@ -3,7 +3,9 @@
 
 int main(void)
 {
-    printf("hello");
+    printf("hi fady");
+    printf("hi fady");
+    printf("hi fady");
 
     return;
 }
